@@ -1,2 +1,5 @@
 # my-libs
- My libraries for Löve2D
+ Saját könyvtáraim Löve2D-hez
+
+## colors.lua
+ Gyakori és ritka színek implementálása
