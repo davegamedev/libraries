@@ -1,4 +1,4 @@
-# my-libs
+# libraries
  Saját könyvtáraim Löve2D-hez
 
 ## colors.lua
